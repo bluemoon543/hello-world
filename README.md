@@ -7,3 +7,6 @@ i found something new
 the saved changes that are made are called commits in githum.
 and this is one new branch i made and this is going to be commit.
 thankyou.
+
+
+this is my second commit.
